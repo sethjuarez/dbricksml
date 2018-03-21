@@ -17,4 +17,16 @@ There are two methods of approaching getting the data:
 2. Not-Hercules Mode - Use a [csv](linear.csv)
 3. I'm Lazy Mode - Use my [code](generate.py) to generate it...
 
-# The Process
+# Basic Linear Model
+We will start with a basic linear model and try to make it
+better (it stinks).
+1. Hercules Mode - Start from scratch
+2. Not Hercules Mode - A [starter](starter.py)
+3. Lazy..... (Don't do it, unles you don't have time) - A [notebook](https://notebooks.azure.com/sethjuarez/libraries/workshop/html/linear.ipynb)
+
+# Make it better!
+It didn't perform very well with a linear model even though the cost
+function was optimized. In this step we will make it a true neural
+network. You can either:
+1. Fix the code you've already created
+2. Use [Keras](https://keras.io/#getting-started-30-seconds-to-keras)
