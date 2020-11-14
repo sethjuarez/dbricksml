@@ -22,7 +22,7 @@ We will start with a basic linear model and try to make it
 better (it stinks).
 1. Hercules Mode - Start from scratch
 2. Not Hercules Mode - A [starter](starter.py)
-3. Lazy..... (Don't do it, unles you don't have time) - A [notebook](https://notebooks.azure.com/sethjuarez/libraries/workshop/html/linear.ipynb)
+3. Lazy..... (Don't do it, unles you don't have time) - A [notebook](https://notebooks.azure.com/sethjuarez/libraries/workshop/html/linear.ipynb?WT.mc_id=aiml-0000-sejuare)
 
 # Make it better!
 It didn't perform very well with a linear model even though the cost
